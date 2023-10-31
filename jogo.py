@@ -4,8 +4,8 @@ import time
 
 pygame.init()
 
-WIDTH, HEIGHT = 800, 600
-MENU_IMAGE = "menu_background.jpg"
+WIDTH, HEIGHT = 1280, 720
+MENU_IMAGE = "menu_background.png"
 LOGO_IMAGE = "mih-logo.png"
 LAUGH_SOUND = "Laugh.mp3"
 FULL_SCREEN_TEXT = "F11 - Full Screen"
